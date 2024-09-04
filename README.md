@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Vaishali Tiwari
 
-![GitHub followers](https://img.shields.io/github/followers/tiwarivaishali8979?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/tiwarivaishali8979?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vaishali-officials?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/vaishali-officials?style=social)
 
 ## About Me
 
@@ -9,7 +9,7 @@ I am a passionate App and Frontend Web Developer, dedicated to creating dynamic 
 - 🌱 Currently learning: Node.js
 - 💬 Ask me about: JavaScript, React, MongoDB, SQL, Dart, Flutter and more.
 - 📫 How to reach me: [tiwarivaishali8979@gmail.com](mailto:tiwarivaishali8979@gmail.com)
-- 🌐 Portfolio: [portfolio.com](http://x404yourportfolio.com)
+- 🌐 Portfolio: [portfolio.com](https://vaishali-officials.github.io/portfolio/)
 
 ## 🔧 Technologies & Tools
 
